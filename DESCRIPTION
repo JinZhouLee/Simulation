@@ -1,0 +1,12 @@
+Package: Simulation
+Title: Statistical Simulation Models
+Version: 0.0.2
+Authors@R: 
+    person(family = "Lee", given = "Jin-zhou", 
+    email = "JinZhou1225@gmail.com", 
+    role = c("aut", "cre"))
+Description: Simulation research, including simulation models such as random number generators, and statistical testing.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
